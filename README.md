@@ -1,1 +1,1 @@
-# nagarro_learning_assignment
+# learning_assignment
